@@ -1,0 +1,15 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "main": "setup-base.js",
+  "bin": {
+    "init-script": "setup-base.js"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

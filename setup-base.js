@@ -43,6 +43,7 @@ const setup = () => {
   writeFileSync('package.json', JSON.stringify(pkg, null, 2));
 
   mkdirSync('src');
+  mkdirSync('dist');
   writeFileSync('src/index.ts', `console.log("Hola TypeScript desde ${projectName}");`);
 
   console.log('Proyecto TypeScript creado correctamente.');

@@ -1,7 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Submarino_1 = require("./submarino/Submarino");
-const submarino = new Submarino_1.Submarino();
-submarino.init();
-console.log("Submarino initialized.");
+const Tablero_1 = require("./tablero/Tablero");
+const tablero = new Tablero_1.Tablero();
+tablero.init({
+    size: 4,
+    trail: 3,
+});
 //# sourceMappingURL=index.js.map

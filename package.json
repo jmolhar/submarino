@@ -1,15 +1,26 @@
 {
   "name": "init",
   "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rpcieszaidin/DAM-25-26#readme",
+  "bugs": {
+    "url": "https://github.com/rpcieszaidin/DAM-25-26/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpcieszaidin/DAM-25-26.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "setup-base.js",
   "bin": {
     "init-script": "setup-base.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }

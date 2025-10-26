@@ -1,6 +1,7 @@
-import { Submarino } from "./submarino/Submarino";
+import { Tablero } from "./tablero/Tablero";
 
-const submarino : Submarino = new Submarino();
-submarino.init();
-
-console.log("Submarino initialized.");
+const tablero = new Tablero();
+tablero.init({
+  size: 4,
+  trail: 3,
+});

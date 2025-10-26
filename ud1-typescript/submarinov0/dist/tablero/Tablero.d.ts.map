@@ -1,0 +1,1 @@
+{"version":3,"file":"Tablero.d.ts","sourceRoot":"","sources":["../../src/tablero/Tablero.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,kBAAkB,CAAC;AAGnD,cAAM,OAAO;IACX,OAAO,CAAC,IAAI,CAAa;IACzB,OAAO,CAAC,SAAS,CAAY;;IAOtB,IAAI,CAAC,MAAM,EAAE,eAAe;IAa5B,QAAQ,CAAC,OAAO,EAAE,MAAM,GAAG,OAAO;CAO1C;AAED,OAAO,EAAE,OAAO,EAAE,CAAC"}
